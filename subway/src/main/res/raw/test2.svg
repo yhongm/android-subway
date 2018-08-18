@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="tiny" x="0px" y="0px" viewBox="0 0 3486 1821" xml:space="preserve">
+
+  <g id="昌平线">
+    <path d="M1555.44,66.17L1675.69,79.17L1701.69,92.17L1734.19,92.17L1829.09,92.17L1894.09,92.17L1929.19,92.17L1929.19,172.77L1929.19,210.86L1929.19,246.22L1929.19,283.40L1929.19,319.67L1929.19,353.34L1929.19,436.80" eletype="1" fill="none" stroke="#C40082" stroke-width="8"/>
+    <text fill="#000" font-size="16" font-weight="normal" id="svgjsText5630" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1518.39" y="79.28999999999996">
+      <tspan dy="14.773333345" id="svgjsTspan5631"  x="1518.39">昌平西山口</tspan>
+      <!--style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;"-->
+    </text>
+    <ellipse cx="1555.44" cy="66.16999999999996" eletype="0" fill="white" id="svgjsEllipse5629" mcx="12935713.37" mcy="4874513.76" name="昌平西山口" rx="6.5" ry="6.5" stroke="#C40082" stroke-width="2.5" sx="1555.44" sy="66.16999999999996" uid="3e7ade317445275e83a00c88"/>
+    <text fill="#000" font-size="16" font-weight="normal" id="svgjsText5627" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1638.64" y="39.249999999999964">
+      <tspan dy="14.773333344" id="svgjsTspan5628" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1638.64">十三陵景区</tspan>
+    </text>
+    <ellipse cx="1675.69" cy="79.16999999999996" eletype="0" fill="white" id="svgjsEllipse5626" mcx="12937062.55" mcy="4873852.42" name="十三陵景区" rx="6.5" ry="6.5" stroke="#C40082" stroke-width="2.5" sx="1675.69" sy="79.16999999999996" uid="4e09cf16837b1a75cd04effc"/>
+    <text fill="#000" font-size="16" font-weight="normal" id="svgjsText5624" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1723.79" y="104.76999999999995">
+      <tspan dy="14.773333344" id="svgjsTspan5625" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1723.79">昌平</tspan>
+    </text>
+    <ellipse cx="1734.19" cy="92.16999999999996" eletype="0" fill="white" id="svgjsEllipse5623" mcx="12939928.23" mcy="4871035.87" name="昌平" rx="6.5" ry="6.5" stroke="#C40082" stroke-width="2.5" sx="1734.19" sy="92.16999999999996" uid="2bb3be4ec2d0315ab64f5494"/>
+    <text fill="#000" font-size="16" font-weight="normal" id="svgjsText5621" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1805.6899999999998" y="104.76999999999995">
+      <tspan dy="14.773333344" id="svgjsTspan5622" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1805.6899999999998">昌平东关</tspan>
+    </text>
+    <ellipse cx="1829.09" cy="92.16999999999996" eletype="0" fill="white" id="svgjsEllipse5620" mcx="12943094.75" mcy="4871267.61" name="昌平东关" rx="6.5" ry="6.5" stroke="#C40082" stroke-width="2.5" sx="1829.09" sy="92.16999999999996" uid="233f6799b27ae5cbaaf0cd4e"/>
+    <text fill="#000" font-size="16" font-weight="normal" id="svgjsText5618" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1876.5400000000002" y="67.84999999999997">
+      <tspan dy="14.773333344" id="svgjsTspan5619" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1876.5400000000002">北邵洼</tspan>
+    </text>
+    <ellipse cx="1894.0900000000001" cy="92.16999999999996" eletype="0" fill="white" id="svgjsEllipse5617" mcx="12945259.03" mcy="4871292" name="北邵洼" rx="6.5" ry="6.5" stroke="#C40082" stroke-width="2.5" sx="1894.0900000000001" sy="92.16999999999996" uid="0204e5050a8f7c7388fc06bc"/>
+    <text fill="#000" font-size="16" font-weight="normal" id="svgjsText5615" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1885.64" y="161.45">
+      <tspan dy="14.773333344" id="svgjsTspan5616" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1885.64">南邵</tspan>
+    </text>
+    <ellipse cx="1929.19" cy="172.76999999999998" eletype="0" fill="white" id="svgjsEllipse5614" mcx="12945874.59" mcy="4869159.6" name="南邵" rx="6.5" ry="6.5" stroke="#C40082" stroke-width="2.5" sx="1929.19" sy="172.76999999999998" uid="c35417fc0e4b738515b54b6c"/>
+    <text fill="#000" font-size="16" font-weight="normal" id="svgjsText5612" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1837.93" y="199.54000000000002">
+      <tspan dy="14.773333344" id="svgjsTspan5613" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1837.93">沙河高教园</tspan>
+    </text>
+    <ellipse cx="1929.19" cy="210.86" eletype="0" fill="white" id="svgjsEllipse5611" mcx="12945123.45" mcy="4863002.5" name="沙河高教园" rx="6.5" ry="6.5" stroke="#C40082" stroke-width="2.5" sx="1929.19" sy="210.86" uid="ef818d4cf5cb2cfcc236446c"/>
+    <text fill="#000" font-size="16" font-weight="normal" id="svgjsText5609" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1885.64" y="234.89999999999998">
+      <tspan dy="14.773333344" id="svgjsTspan5610" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1885.64">沙河</tspan>
+    </text>
+    <ellipse cx="1929.19" cy="246.21999999999997" eletype="0" fill="white" id="svgjsEllipse5608" mcx="12946047.47" mcy="4860634.8" name="沙河" rx="6.5" ry="6.5" stroke="#C40082" stroke-width="2.5" sx="1929.19" sy="246.21999999999997" uid="743176ccaab2fb7f4102456c"/>
+    <text fill="#000" font-size="16" font-weight="normal" id="svgjsText5606" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1869.13" y="272.08">
+      <tspan dy="14.773333344" id="svgjsTspan5607" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1869.13">巩华城</tspan>
+    </text>
+    <ellipse cx="1929.19" cy="283.4" eletype="0" fill="white" id="svgjsEllipse5605" mcx="12946645.92" mcy="4858114.58" name="巩华城" rx="6.5" ry="6.5" stroke="#C40082" stroke-width="2.5" sx="1929.19" sy="283.4" uid="8cb129b57d31784b4d6d466c"/>
+    <text fill="#000" font-size="16" font-weight="normal" id="svgjsText5603" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1869.13" y="308.34999999999997">
+      <tspan dy="14.773333344" id="svgjsTspan5604" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1869.13">朱辛庄</tspan>
+    </text>
+    <svg height="20" name="朱辛庄" version="1.1" viewbox="0 0 105 105" width="20" x="1918.79" y="309.27">
+      <g id="transfer_station">
+        <circle cx="52.5" cy="52.5" fill="#ffffff" opacity="1.00" r="46.5" stroke="#231715" stroke-width="12"/>
+        <path d=" M 41.04 25.08 C 45.36 23.43 49.98 23.10 54.56 23.33 C 54.46 25.06 54.33 26.78 54.18 28.50 C 48.07 29.49 41.77 31.66 37.79 36.65 C 34.07 42.79 35.78 50.27 34.68 57.03 C 38.42 56.52 42.05 55.42 45.82 55.05 C 40.62 60.86 35.86 67.04 30.95 73.08 C 24.97 67.36 20.01 60.68 14.51 54.51 C 18.24 55.38 22.01 56.08 25.79 56.70 C 25.66 50.84 25.92 44.99 26.63 39.17 C 27.98 32.10 34.23 26.75 41.04 25.08 Z" fill="#231715" opacity="1.00"/>
+        <path d=" M 72.20 33.89 C 77.70 39.68 82.54 46.05 88.00 51.88 C 84.33 52.04 80.80 51.02 77.23 50.38 C 77.35 55.93 76.91 61.45 76.50 66.98 C 75.98 72.11 72.47 76.44 68.36 79.30 C 62.34 82.73 55.32 84.35 48.40 83.72 C 48.52 82.01 48.64 80.30 48.77 78.59 C 56.66 77.89 64.33 72.81 67.18 65.30 C 68.20 60.37 67.69 55.28 67.82 50.27 C 64.33 50.61 60.97 51.72 57.46 51.93 C 62.48 46.00 67.37 39.97 72.20 33.89 Z" fill="#231715" opacity="1.00"/>
+      </g>
+    </svg>
+    <text fill="#000" font-size="16" font-weight="normal" id="svgjsText5600" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1837.93" y="342.02">
+      <tspan dy="14.773333344" id="svgjsTspan5601" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1837.93">生命科学园</tspan>
+    </text>
+    <ellipse cx="1929.19" cy="353.34" eletype="0" fill="white" id="svgjsEllipse5599" mcx="12946658.82" mcy="4852844.96" name="生命科学园" rx="6.5" ry="6.5" stroke="#C40082" stroke-width="2.5" sx="1929.19" sy="353.34" uid="0a4b7d02f26a751cbca2406c"/>
+    <text fill="#000" font-size="16" font-weight="normal" id="svgjsText5597" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1869.13" y="425.48">
+      <tspan dy="14.773333344" id="svgjsTspan5598" style="font-size:16;font-family:Helvetica, Arial, sans-serif;text-anchor:start;textLength:1;font-weight:normal;" x="1869.13">西二旗</tspan>
+    </text>
+    <svg height="20" name="西二旗" version="1.1" viewbox="0 0 105 105" width="20" x="1918.79" y="426.40000000000003">
+      <g id="transfer_station">
+        <circle cx="52.5" cy="52.5" fill="#ffffff" opacity="1.00" r="46.5" stroke="#231715" stroke-width="12"/>
+        <path d=" M 41.04 25.08 C 45.36 23.43 49.98 23.10 54.56 23.33 C 54.46 25.06 54.33 26.78 54.18 28.50 C 48.07 29.49 41.77 31.66 37.79 36.65 C 34.07 42.79 35.78 50.27 34.68 57.03 C 38.42 56.52 42.05 55.42 45.82 55.05 C 40.62 60.86 35.86 67.04 30.95 73.08 C 24.97 67.36 20.01 60.68 14.51 54.51 C 18.24 55.38 22.01 56.08 25.79 56.70 C 25.66 50.84 25.92 44.99 26.63 39.17 C 27.98 32.10 34.23 26.75 41.04 25.08 Z" fill="#231715" opacity="1.00"/>
+        <path d=" M 72.20 33.89 C 77.70 39.68 82.54 46.05 88.00 51.88 C 84.33 52.04 80.80 51.02 77.23 50.38 C 77.35 55.93 76.91 61.45 76.50 66.98 C 75.98 72.11 72.47 76.44 68.36 79.30 C 62.34 82.73 55.32 84.35 48.40 83.72 C 48.52 82.01 48.64 80.30 48.77 78.59 C 56.66 77.89 64.33 72.81 67.18 65.30 C 68.20 60.37 67.69 55.28 67.82 50.27 C 64.33 50.61 60.97 51.72 57.46 51.93 C 62.48 46.00 67.37 39.97 72.20 33.89 Z" fill="#231715" opacity="1.00"/>
+      </g>
+    </svg>
+  </g>
+</svg>

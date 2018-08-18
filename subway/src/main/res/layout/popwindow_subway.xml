@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="260dp"
+    android:layout_height="200dp"
+    android:background="@drawable/pop_bg">
+
+    <android.support.v7.widget.AppCompatImageButton
+        android:id="@+id/pop_ib_close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+
+        android:background="@null"
+        android:src="@drawable/ic_close_black_24dp" />
+
+    <TextView
+        android:id="@+id/pop_tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:text="ccccccc"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="15sp" />
+
+    <com.yhongm.subway.view.MarqueeTextView
+        android:id="@+id/pop_tv_first"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/pop_tv_title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:text="ccccccc"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="12sp" />
+
+    <com.yhongm.subway.view.MarqueeTextView
+        android:id="@+id/pop_tv_end"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="35dp"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:text="vvvvvvv"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="12sp" />
+</RelativeLayout>

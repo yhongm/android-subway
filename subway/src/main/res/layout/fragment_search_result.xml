@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <com.yhongm.subway.view.CustomScrollView
+        android:id="@+id/search_result_csv_v"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp">
+
+        <HorizontalScrollView
+            android:id="@+id/search_result_hsv_v"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RelativeLayout
+                android:layout_width="3486px"
+                android:layout_height="1821px">
+
+                <com.yhongm.subway.svg.RenderSvgPathView
+                    android:id="@+id/search_result_spv"
+                    android:layout_width="3486px"
+                    android:layout_height="1821px"
+                    android:layout_centerInParent="true" />
+
+
+            </RelativeLayout>
+
+        </HorizontalScrollView>
+
+    </com.yhongm.subway.view.CustomScrollView>
+</RelativeLayout>
